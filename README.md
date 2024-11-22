@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub! 🚀
 
-Hi there! I’m **Shrey Jain**, a passionate **aspiring Fund Manager, Quant Analyst, and Quant Trader** who loves merging **technology and finance** to solve complex problems. My mission? To leverage data and analytics to drive impactful investment decisions. 📊💡
+Hi there! I’m **Shrey Jain* 
 
 ---
 
