@@ -15,25 +15,25 @@ Hi there! I’m **Shrey Jain**, a passionate **aspiring Fund Manager, Quant Anal
 ## 🛠️ Tech & Finance Toolkit
 
 ### Programming Language:
-- Python 🐍
+- Python 
 
 ### Developer Tools:
-- Git 🖋️
-- Jupyter Notebook 📒
-- GitHub 💻
-- VS Code 🔧
+- Git 
+- Jupyter Notebook 
+- GitHub 
+- VS Code 
 
 ### Software Proficiency:
-- Microsoft Power BI 📊
-- Microsoft Excel (Lookups, Pivot Tables, Conditional Statements) 📈
+- Microsoft Power BI 
+- Microsoft Excel (Lookups, Pivot Tables, Conditional Statements) 
 
 ### Financial Skills:
-- Forensic Investment Analysis 🔍
-- Fundamental Analysis 📘
+- Forensic Investment Analysis 
+- Fundamental Analysis 
 
 ### Other Skills:
-- Business Analysis 📑
-- Data Analysis 📚
+- Business Analysis 
+- Data Analysis 
 
 ---
 
