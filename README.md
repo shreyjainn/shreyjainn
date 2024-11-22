@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub! 🚀
 
-Hi there! I’m **Shrey Jain* 
+Hi there! I am **Shrey Jain**
 
 ---
 
